@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epica.Data", "Epica.Data\Epica.Data.csproj", "{647B23E5-1345-453C-A4DE-A4051CAA93F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epica.Engine", "Epica.Engine\Epica.Engine.csproj", "{D404D30D-16C1-49E2-9A8A-C7B3CFBEE3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epica.Services", "Epica.Services\Epica.Services.csproj", "{501CDDE7-7560-44F4-9FCF-680512E2EF47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epica.Services.Tests", "Epica.Services.Tests\Epica.Services.Tests.csproj", "{822584BC-EC4B-44A7-B476-B027C367D746}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epica.ConsoleClient", "Epica.ConsoleClient\Epica.ConsoleClient.csproj", "{6251566B-E272-48E2-BB37-8C4C37C8E716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epica.Data.Tests", "Epica.Data.Tests\Epica.Data.Tests.csproj", "{D11028A2-3835-408E-813D-824975B0BCA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epica.Engine.Tests", "Epica.Engine.Tests\Epica.Engine.Tests.csproj", "{88D58E43-5BC0-4605-8E85-07958B29D862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647B23E5-1345-453C-A4DE-A4051CAA93F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647B23E5-1345-453C-A4DE-A4051CAA93F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647B23E5-1345-453C-A4DE-A4051CAA93F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647B23E5-1345-453C-A4DE-A4051CAA93F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D404D30D-16C1-49E2-9A8A-C7B3CFBEE3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D404D30D-16C1-49E2-9A8A-C7B3CFBEE3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D404D30D-16C1-49E2-9A8A-C7B3CFBEE3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D404D30D-16C1-49E2-9A8A-C7B3CFBEE3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501CDDE7-7560-44F4-9FCF-680512E2EF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501CDDE7-7560-44F4-9FCF-680512E2EF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501CDDE7-7560-44F4-9FCF-680512E2EF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501CDDE7-7560-44F4-9FCF-680512E2EF47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{822584BC-EC4B-44A7-B476-B027C367D746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822584BC-EC4B-44A7-B476-B027C367D746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822584BC-EC4B-44A7-B476-B027C367D746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822584BC-EC4B-44A7-B476-B027C367D746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6251566B-E272-48E2-BB37-8C4C37C8E716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6251566B-E272-48E2-BB37-8C4C37C8E716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6251566B-E272-48E2-BB37-8C4C37C8E716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6251566B-E272-48E2-BB37-8C4C37C8E716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11028A2-3835-408E-813D-824975B0BCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11028A2-3835-408E-813D-824975B0BCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11028A2-3835-408E-813D-824975B0BCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11028A2-3835-408E-813D-824975B0BCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D58E43-5BC0-4605-8E85-07958B29D862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D58E43-5BC0-4605-8E85-07958B29D862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D58E43-5BC0-4605-8E85-07958B29D862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D58E43-5BC0-4605-8E85-07958B29D862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
